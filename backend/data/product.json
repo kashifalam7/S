@@ -1,0 +1,15 @@
+{
+    "name": "SDCard",
+    "price" : 20,
+    "description" : "Fast Memory Data",
+    "rating" : "2.0",
+    "image" : [{
+        "public_id" :"NA",
+        "url" : "NA"
+    }],
+    "category" : "Electronics",
+    "seller": "Ebay",
+    "stock" : 50,
+    "numofReviews" : 45,
+    "reviews" : []
+}

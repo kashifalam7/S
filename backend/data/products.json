@@ -1,0 +1,32 @@
+[{
+    "name": "SDCard",
+    "price" : 200,
+    "description" : "Fast Memory Dataz",
+    "rating" : "2.0",
+    "image" : [{
+        "public_id" :"NA",
+        "url" : "NA"
+    }],
+    "category" : "Electronics",
+    "seller": "Ebay",
+    "stock" : 50,
+    "numofReviews" : 45,
+    "reviews" : []
+},
+
+{
+    "name": "Laptop",
+    "price" : 200000,
+    "description" : "Fast Memory Reading Device",
+    "rating" : "4.0",
+    "image" : [{
+        "public_id" :"NA",
+        "url" : "NA"
+    }],
+    "category" : "Electronics",
+    "seller": "Ebay",
+    "stock" : 50,
+    "numofReviews" : 45,
+    "reviews" : []
+}
+]

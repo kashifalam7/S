@@ -9,8 +9,4 @@ app.use('/api/v1', products)
 
 
 
-
-
-
-
 module.exports = app
